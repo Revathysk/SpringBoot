@@ -1,2 +1,2 @@
 # SpringBoot
-Java SpringBoot Exercise
+Java SpringBoot Project
